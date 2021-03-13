@@ -1,0 +1,13 @@
+com\Vtiger\stepdefinitions\Login.class
+com\Vtiger\common\Utility.class
+com\Vtiger\common\GetScreenshots.class
+com\Vtiger\common\BrowserHelper.class
+com\Vtiger\runner\TestRunner.class
+com\Vtiger\common\DBManager.class
+com\Vtiger\common\DBUtilities.class
+com\Vtiger\pages\LoginPage.class
+com\Vtiger\common\Utility$1.class
+com\Vtiger\stepdefinitions\BaseTest.class
+com\Vtiger\common\OracleDb.class
+com\Vtiger\pages\BasePage.class
+com\Vtiger\common\Xls_Reader.class

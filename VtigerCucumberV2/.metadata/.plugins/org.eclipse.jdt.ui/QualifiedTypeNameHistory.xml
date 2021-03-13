@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.Vtiger.stepdefinitions.BaseTest"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.Before"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.After"/>
+    <fullyQualifiedTypeName name="com.aventstack.extentreports.gherkin.model.Scenario"/>
+    <fullyQualifiedTypeName name="com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter"/>
+</qualifiedTypeNameHistroy>
